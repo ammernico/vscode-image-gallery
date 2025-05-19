@@ -1,5 +1,8 @@
 # Image Gallery
 
+This is a fork of https://github.com/geriyoco/vscode-image-gallery
+Its not my project and for testing purposes only
+
 A light-weighted extension that brings you the best image browsing experience in VS Code, especially for remote / cloud development.
 
 > 📢 **Announcement** 📢 (March 12, 2024)
